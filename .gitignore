@@ -1,0 +1,12 @@
+# 自分の環境固有の設定（.env.example をコピーして作る）
+.env
+
+# キャリブレーションデータ（読者が自分で作るもの）
+calibration/
+
+# 学習・評価の出力
+outputs/
+
+__pycache__/
+*.pyc
+.DS_Store

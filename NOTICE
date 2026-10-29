@@ -1,0 +1,8 @@
+so101-lerobot-tutorial
+Copyright 2026 沼倉瑛 (akiraNuma)
+
+書籍『SO-101 ロボットアーム LeRobot 学習ガイド』のサンプルコードです。
+Licensed under the Apache License, Version 2.0（LICENSE を参照）。
+
+このリポジトリは LeRobot（Apache License 2.0）を依存として利用しますが、
+LeRobot のコードは同梱していません。pip で別途インストールします。
